@@ -1,11 +1,9 @@
-GitHub Example
-==============
+single_repo_example
+==================
 
-Readme_ sunwoox Edition.
+Here is some new content for the README.md file
 
-How to Contribute
-=================
+sunwoox
+===============
+Greeting~
 
-Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
-
-Thanks for watching!!
